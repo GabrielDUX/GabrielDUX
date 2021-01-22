@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/GabrielDUX/GabrielDUX.github.io.git/"/>
-  <updated>2020-07-30T09:10:44.341Z</updated>
+  <updated>2020-10-26T09:41:11.021Z</updated>
   <id>https://github.com/GabrielDUX/GabrielDUX.github.io.git/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>在Adapter中利用接口回调返回数据</title>
+    <link href="https://github.com/GabrielDUX/GabrielDUX.github.io.git/2020/10/26/%E5%9C%A8Adapter%E4%B8%AD%E5%88%A9%E7%94%A8%E6%8E%A5%E5%8F%A3%E5%9B%9E%E8%B0%83%E8%BF%94%E5%9B%9E%E6%95%B0%E6%8D%AE/"/>
+    <id>https://github.com/GabrielDUX/GabrielDUX.github.io.git/2020/10/26/%E5%9C%A8Adapter%E4%B8%AD%E5%88%A9%E7%94%A8%E6%8E%A5%E5%8F%A3%E5%9B%9E%E8%B0%83%E8%BF%94%E5%9B%9E%E6%95%B0%E6%8D%AE/</id>
+    <published>2020-10-26T09:41:11.021Z</published>
+    <updated>2020-10-26T09:41:11.021Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>树洞小程序开发记录</title>
     <link href="https://github.com/GabrielDUX/GabrielDUX.github.io.git/2020/07/28/%E6%A0%91%E6%B4%9E%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/"/>
     <id>https://github.com/GabrielDUX/GabrielDUX.github.io.git/2020/07/28/%E6%A0%91%E6%B4%9E%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95/</id>
     <published>2020-07-28T06:21:40.374Z</published>
-    <updated>2020-07-30T09:10:44.341Z</updated>
+    <updated>2020-09-24T16:37:59.293Z</updated>
     
     <summary type="html">
     
